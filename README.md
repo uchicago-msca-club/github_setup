@@ -2,7 +2,7 @@
 
 Github is a reposotiory of codes that we can share with team mates, recruiters and the general public as well. There are privacy settings for hiding code as well, but we will not go into that.
 
-# Step 1 - Make a profile
+## Make a profile
 
 Register with Github using your personal/school Email ID. 
 
